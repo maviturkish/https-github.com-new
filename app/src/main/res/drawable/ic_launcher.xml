@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Launcher icon for Android 7.x (adaptive version lives in drawable-v26) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#151820"
+        android:pathData="M24,2a22,22 0,1 1,0 44a22,22 0,1 1,0 -44z" />
+    <path
+        android:fillColor="#E5534B"
+        android:pathData="M24,13a13,12.5 0,1 1,0 25a13,12.5 0,1 1,0 -25z" />
+    <path
+        android:fillColor="#3FB68B"
+        android:pathData="M24,9l2,5l5,-2l-3,4l4,2l-6,0l-2,3l-2,-3l-6,0l4,-2l-3,-4l5,2z" />
+</vector>
